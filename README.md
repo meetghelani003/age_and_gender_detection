@@ -1,4 +1,4 @@
-you have to download caffe models for from the websites 
+
 
 for running pip install streamlit 
 
